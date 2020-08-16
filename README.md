@@ -11,7 +11,7 @@ Prérequis :
 
 
 Lancement de l'application :
-- Télécharger le projet
+- Télécharger + extraire le projet
 - A partir de la racine du projet executer la commande : mvn spring-boot:run
 - A partir d'un navigateur, accéder à : http://localhost:8080/facture/
 
