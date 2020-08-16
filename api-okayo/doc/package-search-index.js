@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.okayo"},{"l":"com.okayo.configuration"},{"l":"com.okayo.controller.test"},{"l":"com.okayo.dao"},{"l":"com.okayo.domaine"},{"l":"com.okayo.service.test"}]
